@@ -4,3 +4,8 @@ body , html{
     padding: 20px;
     background-color: lightgray
 }
+
+.section{
+    border-top: 2px dashed red;
+    border-bottom: 2px dashed red;
+}
